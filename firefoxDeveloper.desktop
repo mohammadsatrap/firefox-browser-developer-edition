@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Firefox Developer
+Comment=Firefox Browser Developer Edition
+StartupWMClass="firefox-aurora", "Firefox Developer"
+GenericName=Web Browser
+Exec=/opt/firefoxDeveloper/firefox
+Icon=/opt/firefoxDeveloper/browser/chrome/icons/default/default128.png
+Type=Application
+Categories=Network;Utility;Development;WebBrowser;WebDevelopment
+Terminal=false
+Actions=new-window;new-private-window;
+StartupWMClass=Firefox Developer
+MimeType=text/html;text/xml;application/xhtml_xml;x-scheme-handler/http;x-scheme-handler/https;x-scheme-handler/ftp;
